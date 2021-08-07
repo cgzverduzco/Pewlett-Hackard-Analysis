@@ -86,4 +86,4 @@ To facilitate the process of filling vacancies, the human resources department d
 ![alt text](./img/mentor_prg.png)
 ###### Total: 1,549 employees
 
-[Download the file](https://support.west-wind.com)
+[Download the file](https://github.com/cgzverduzco/Pewlett-Hackard-Analysis-Challenge/blob/main/Data/mentorship_eligibilty.csv)
